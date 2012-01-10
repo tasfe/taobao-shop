@@ -1,0 +1,373 @@
+TtaobaoDemo
+v7
+r0
+t347874716.812365
+cCheck dependencies
+cProcessInfoPlistFile /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app/Info.plist taobaoDemo-Info.plist
+cCompileXIB /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/MainWindow.xib
+cCompileXIB /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/IndexViewController.xib
+cProcessPCH /var/folders/F1/F1cSEgPgG4GWJ8keC-EDxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/taobaoDemo_Prefix-bymedrwtoofflidtlcafbxmwwdcd/taobaoDemo_Prefix.pch.gch taobaoDemo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/Objects-normal/i386/main.o /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/Objects-normal/i386/taobaoDemoAppDelegate.o /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/taobaoDemoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/Objects-normal/i386/IndexViewController.o /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/IndexViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/Objects-normal/i386/NSMutableDictionaryTaobao.o /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/NSMutableDictionaryTaobao.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/Objects-normal/i386/NSStringEx.o /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/NSStringEx.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app/taobaoDemo normal i386
+cGenerateDSYMFile /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app.dSYM /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app/taobaoDemo
+cTouch /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/CommonCrypto/CommonDigest.h
+c000000004A11E8210000000000002407
+t1242687521
+s9223
+
+N/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/IndexViewController.h
+c000000004F0BEA090000000000000103
+t1326180873
+s259
+i<UIKit/UIKit.h>
+
+N/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/IndexViewController.m
+c000000004F0BEA19000000000000083B
+t1326180889
+s2107
+i"IndexViewController.h"
+i"NSMutableDictionaryTaobao.h"
+i"NSStringEx.h"
+
+N/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/NSMutableDictionaryTaobao.h
+c000000004D8850DC0000000000000112
+t1300779228
+s274
+i<Foundation/Foundation.h>
+
+N/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/NSMutableDictionaryTaobao.m
+c000000004F0BE4E60000000000000DC4
+t1326179558
+s3524
+i"NSMutableDictionaryTaobao.h"
+i"NSStringEx.h"
+
+N/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/NSStringEx.h
+c000000004D884FBE00000000000000E1
+t1300778942
+s225
+i<Foundation/Foundation.h>
+
+N/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/NSStringEx.m
+c000000004D884FB800000000000002A3
+t1300778936
+s675
+i"NSStringEx.h"
+i<CommonCrypto/CommonDigest.h>
+
+N/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/taobaoDemoAppDelegate.h
+c000000004F0BEBBA00000000000001DA
+t1326181306
+s474
+i<UIKit/UIKit.h>
+
+N/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/taobaoDemoAppDelegate.m
+c000000004F0BEBF70000000000000A97
+t1326181367
+s2711
+i"taobaoDemoAppDelegate.h"
+i"IndexViewController.h"
+
+N/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/taobaoDemoViewController.h
+c000000004D884F060000000000000108
+t1300778758
+s264
+i<UIKit/UIKit.h>
+
+N/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/taobaoDemoViewController.m
+c000000004D89940C0000000000000845
+t1300861964
+s2117
+i"taobaoDemoViewController.h"
+i"NSMutableDictionaryTaobao.h"
+i"NSStringEx.h"
+
+N/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/IndexViewController.xib
+c000000004F0BEE160000000000004455
+t1326181910
+s17493
+
+N/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/MainWindow.xib
+c000000004F0BED1B00000000000052E7
+t1326181659
+s21223
+
+N/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app
+t1326181916
+s238
+
+N/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app.dSYM
+t1326181369
+s102
+
+N/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app/IndexViewController.nib
+t1326181916
+s1708
+
+N/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app/Info.plist
+t1326181237
+s599
+
+N/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app/MainWindow.nib
+t1326181662
+s1682
+
+N/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app/PkgInfo
+t1326181237
+s8
+
+N/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app/taobaoDemo
+t1326181369
+s23584
+
+N/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app/taobaoDemoViewController.nib
+t1326178683
+s1708
+
+N/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/Objects-normal/i386/IndexViewController.o
+t1326181259
+s42216
+
+N/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/Objects-normal/i386/NSMutableDictionaryTaobao.o
+t1326181260
+s15356
+
+N/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/Objects-normal/i386/NSStringEx.o
+t1326181260
+s7200
+
+N/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/Objects-normal/i386/main.o
+t1326181258
+s6344
+
+N/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/Objects-normal/i386/taobaoDemo.LinkFileList
+c000000004F0BEB75000000000000030B
+t1326181237
+s779
+
+N/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/Objects-normal/i386/taobaoDemoAppDelegate.o
+t1326181368
+s51676
+
+N/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/Objects-normal/i386/taobaoDemoViewController.o
+t1326178702
+s42344
+
+N/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/main.m
+c000000004D884DA8000000000000016A
+t1300778408
+s362
+i<UIKit/UIKit.h>
+
+N/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/taobaoDemoViewController.xib
+c000000004D884F160000000000004464
+t1300778774
+s17508
+
+N/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/taobaoDemo_Prefix.pch
+c000000004D884DA800000000000000BD
+t1300778408
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/F1/F1cSEgPgG4GWJ8keC-EDxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/taobaoDemo_Prefix-bymedrwtoofflidtlcafbxmwwdcd/taobaoDemo_Prefix.pch.gch
+t1326181258
+s15814064
+
+NtaobaoDemo-Info.plist
+c000000004F0BEB5C0000000000000389
+t1326181212
+s905
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies347874715#347874715#0(0"0(0#1#0"8612290112#0"0#
+
+CCompileC build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/Objects-normal/i386/IndexViewController.o /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/IndexViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s347874059.311649
+e347874059.742227
+r1
+xCompileC
+xbuild/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/Objects-normal/i386/IndexViewController.o
+x/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/IndexViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/IndexViewController.m347874059#347874059#0(0"0(0#0#84"/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/IndexViewController.m8609809536#2190"    cd "/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/taobaoDemo-generated-files.hmap -I/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/taobaoDemo-own-target-headers.hmap -I/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/taobaoDemo-all-target-headers.hmap -iquote /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/taobaoDemo-project-headers.hmap -F/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator -I/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/include -I/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/DerivedSources/i386 -I/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/DerivedSources -include /var/folders/F1/F1cSEgPgG4GWJ8keC-EDxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/taobaoDemo_Prefix-bymedrwtoofflidtlcafbxmwwdcd/taobaoDemo_Prefix.pch -c /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/IndexViewController.m -o /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/Objects-normal/i386/IndexViewController.o0#
+
+CCompileC build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/Objects-normal/i386/NSMutableDictionaryTaobao.o /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/NSMutableDictionaryTaobao.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s347874059.742328
+e347874060.206265
+r1
+xCompileC
+xbuild/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/Objects-normal/i386/NSMutableDictionaryTaobao.o
+x/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/NSMutableDictionaryTaobao.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/NSMutableDictionaryTaobao.m347874059#347874060#0(0"0(0#0#90"/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/NSMutableDictionaryTaobao.m8610597056#2202"    cd "/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/taobaoDemo-generated-files.hmap -I/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/taobaoDemo-own-target-headers.hmap -I/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/taobaoDemo-all-target-headers.hmap -iquote /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/taobaoDemo-project-headers.hmap -F/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator -I/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/include -I/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/DerivedSources/i386 -I/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/DerivedSources -include /var/folders/F1/F1cSEgPgG4GWJ8keC-EDxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/taobaoDemo_Prefix-bymedrwtoofflidtlcafbxmwwdcd/taobaoDemo_Prefix.pch -c /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/NSMutableDictionaryTaobao.m -o /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/Objects-normal/i386/NSMutableDictionaryTaobao.o0#
+
+CCompileC build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/Objects-normal/i386/NSStringEx.o /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/NSStringEx.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s347874060.206527
+e347874060.614751
+r1
+xCompileC
+xbuild/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/Objects-normal/i386/NSStringEx.o
+x/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/NSStringEx.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/NSStringEx.m347874060#347874060#0(0"0(0#0#75"/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/NSStringEx.m8612847936#2172"    cd "/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/taobaoDemo-generated-files.hmap -I/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/taobaoDemo-own-target-headers.hmap -I/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/taobaoDemo-all-target-headers.hmap -iquote /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/taobaoDemo-project-headers.hmap -F/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator -I/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/include -I/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/DerivedSources/i386 -I/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/DerivedSources -include /var/folders/F1/F1cSEgPgG4GWJ8keC-EDxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/taobaoDemo_Prefix-bymedrwtoofflidtlcafbxmwwdcd/taobaoDemo_Prefix.pch -c /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/NSStringEx.m -o /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/Objects-normal/i386/NSStringEx.o0#
+
+CCompileC build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/Objects-normal/i386/main.o /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s347874058.417203
+e347874058.901914
+r1
+xCompileC
+xbuild/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/Objects-normal/i386/main.o
+x/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/main.m347874058#347874058#0(0"0(0#0#61"/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/main.m8607047520#2152"    cd "/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/taobaoDemo-generated-files.hmap -I/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/taobaoDemo-own-target-headers.hmap -I/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/taobaoDemo-all-target-headers.hmap -iquote /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/taobaoDemo-project-headers.hmap -F/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator -I/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/include -I/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/DerivedSources/i386 -I/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/DerivedSources -include /var/folders/F1/F1cSEgPgG4GWJ8keC-EDxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/taobaoDemo_Prefix-bymedrwtoofflidtlcafbxmwwdcd/taobaoDemo_Prefix.pch -c /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/main.m -o /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/Objects-normal/i386/main.o0#
+
+CCompileC build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/Objects-normal/i386/taobaoDemoAppDelegate.o /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/taobaoDemoAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s347874168.236604
+e347874168.974855
+r1
+xCompileC
+xbuild/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/Objects-normal/i386/taobaoDemoAppDelegate.o
+x/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/taobaoDemoAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/taobaoDemoAppDelegate.m347874168#347874168#0(0"0(0#0#86"/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/taobaoDemoAppDelegate.m8609586560#2194"    cd "/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/taobaoDemo-generated-files.hmap -I/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/taobaoDemo-own-target-headers.hmap -I/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/taobaoDemo-all-target-headers.hmap -iquote /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/taobaoDemo-project-headers.hmap -F/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator -I/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/include -I/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/DerivedSources/i386 -I/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/DerivedSources -include /var/folders/F1/F1cSEgPgG4GWJ8keC-EDxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/taobaoDemo_Prefix-bymedrwtoofflidtlcafbxmwwdcd/taobaoDemo_Prefix.pch -c /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/taobaoDemoAppDelegate.m -o /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/Objects-normal/i386/taobaoDemoAppDelegate.o0#
+
+CCompileC build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/Objects-normal/i386/taobaoDemoViewController.o /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/taobaoDemoViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s347871501.897132
+e347871502.346471
+r1
+xCompileC
+xbuild/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/Objects-normal/i386/taobaoDemoViewController.o
+x/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/taobaoDemoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/taobaoDemoViewController.m347871501#347871502#0(0"0(0#0#89"/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/taobaoDemoViewController.m8605577984#2200"    cd "/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/taobaoDemo-generated-files.hmap -I/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/taobaoDemo-own-target-headers.hmap -I/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/taobaoDemo-all-target-headers.hmap -iquote /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/taobaoDemo-project-headers.hmap -F/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator -I/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/include -I/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/DerivedSources/i386 -I/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/DerivedSources -include /var/folders/F1/F1cSEgPgG4GWJ8keC-EDxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/taobaoDemo_Prefix-bymedrwtoofflidtlcafbxmwwdcd/taobaoDemo_Prefix.pch -c /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/Classes/taobaoDemoViewController.m -o /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/Objects-normal/i386/taobaoDemoViewController.o0#
+
+CCompileXIB /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/IndexViewController.xib
+s347874715.496026
+e347874716.800728
+r1
+xCompileXIB
+x/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/IndexViewController.xib
+lSLF07#2@34"CompileXIB IndexViewController.xib347874715#347874716#0(0"0(0#0#78"/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/IndexViewController.xib8609831200#641"    cd "/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app/IndexViewController.nib /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/IndexViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/MainWindow.xib
+s347874460.971390
+e347874462.646680
+r1
+xCompileXIB
+x/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib347874460#347874462#0(0"0(0#0#69"/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/MainWindow.xib8612087872#623"    cd "/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app/MainWindow.nib /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/taobaoDemoViewController.xib
+s347871481.674355
+e347871484.597226
+r1
+xCompileXIB
+x/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/taobaoDemoViewController.xib
+lSLF07#2@39"CompileXIB taobaoDemoViewController.xib347871481#347871484#0(0"0(0#0#83"/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/taobaoDemoViewController.xib8602825632#651"    cd "/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app/taobaoDemoViewController.nib /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/taobaoDemoViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app.dSYM /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app/taobaoDemo
+s347874169.147867
+e347874169.256407
+r1
+xGenerateDSYMFile
+x/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app.dSYM
+x/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app/taobaoDemo
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/taobaoDemo.app.dSYM build/Debug-iphonesimulator/taobaoDemo.app/taobaoDemo347874169#347874169#0(0"0(0#0#108"/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app/taobaoDemo8612817184#442"    cd "/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app/taobaoDemo -o /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app.dSYM0#
+
+CLd /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app/taobaoDemo normal i386
+s347874168.975712
+e347874169.147779
+r1
+xLd
+x/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app/taobaoDemo
+xnormal
+xi386
+lSLF07#2@113"Link /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app/taobaoDemo347874168#347874169#0(0"0(0#0#0"8603291488#997"    cd "/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator -F/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator -filelist /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/Objects-normal/i386/taobaoDemo.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app/taobaoDemo0#
+
+CProcessInfoPlistFile /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app/Info.plist taobaoDemo-Info.plist
+s347874037.949111
+e347874038.011119
+r1
+xProcessInfoPlistFile
+x/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app/Info.plist
+xtaobaoDemo-Info.plist
+lSLF07#2@29"Process taobaoDemo-Info.plist347874037#347874038#0(0"0(0#0#76"/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/taobaoDemo-Info.plist8610409632#538"    cd "/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility taobaoDemo-Info.plist -genpkginfo /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app/Info.plist0#
+
+CProcessPCH /var/folders/F1/F1cSEgPgG4GWJ8keC-EDxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/taobaoDemo_Prefix-bymedrwtoofflidtlcafbxmwwdcd/taobaoDemo_Prefix.pch.gch taobaoDemo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s347874040.527310
+e347874058.416965
+r1
+xProcessPCH
+x/var/folders/F1/F1cSEgPgG4GWJ8keC-EDxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/taobaoDemo_Prefix-bymedrwtoofflidtlcafbxmwwdcd/taobaoDemo_Prefix.pch.gch
+xtaobaoDemo_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile taobaoDemo_Prefix.pch347874040#347874058#0(0"0(0#0#76"/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/taobaoDemo_Prefix.pch8609020032#2025"    cd "/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/taobaoDemo-generated-files.hmap -I/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/taobaoDemo-own-target-headers.hmap -I/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/taobaoDemo-all-target-headers.hmap -iquote /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/taobaoDemo-project-headers.hmap -F/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator -I/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/include -I/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/DerivedSources/i386 -I/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/taobaoDemo.build/Debug-iphonesimulator/taobaoDemo.build/DerivedSources -c /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/taobaoDemo_Prefix.pch -o /var/folders/F1/F1cSEgPgG4GWJ8keC-EDxU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/taobaoDemo_Prefix-bymedrwtoofflidtlcafbxmwwdcd/taobaoDemo_Prefix.pch.gch0#
+
+CTouch /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app
+s347874716.801488
+e347874716.812330
+r1
+xTouch
+x/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app
+lSLF07#2@103"Touch /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app347874716#347874716#0(0"0(0#0#0"8610596224#315"    cd "/Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/gaoxiaofei/workspace/ApiDemo(iphone)/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app0#
+
