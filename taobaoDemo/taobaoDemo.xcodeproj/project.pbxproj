@@ -42,7 +42,6 @@
 		9B8630D514BC989100F2C062 /* TradeAmount.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B8630D414BC989100F2C062 /* TradeAmount.m */; };
 		9B8630D814BC989C00F2C062 /* Task.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B8630D714BC989C00F2C062 /* Task.m */; };
 		9B8630DB14BC98A900F2C062 /* Trade.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B8630DA14BC98A900F2C062 /* Trade.m */; };
-		9B8630DE14BC98C000F2C062 /* Subtask.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B8630DD14BC98C000F2C062 /* Subtask.m */; };
 		9B8630E114BC98E500F2C062 /* TradeConfirmFee.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B8630E014BC98E500F2C062 /* TradeConfirmFee.m */; };
 		9B8630E414BC98F600F2C062 /* TradeRate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B8630E314BC98F600F2C062 /* TradeRate.m */; };
 		9B8630E714BC9A5900F2C062 /* TransitStepInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B8630E614BC9A5900F2C062 /* TransitStepInfo.m */; };
@@ -52,7 +51,6 @@
 		9B8630F314BC9ACF00F2C062 /* PartnerDetail.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B8630F214BC9ACF00F2C062 /* PartnerDetail.m */; };
 		9B8630F614BC9AE500F2C062 /* DeliveryTemplate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B8630F514BC9AE500F2C062 /* DeliveryTemplate.m */; };
 		9B8630F914BC9AF100F2C062 /* Area.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B8630F814BC9AF100F2C062 /* Area.m */; };
-		9B8630FC14BC9B0200F2C062 /* SubTask.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B8630FB14BC9B0200F2C062 /* SubTask.m */; };
 		9B8630FF14BC9B1800F2C062 /* LogisticsCompany.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B8630FE14BC9B1800F2C062 /* LogisticsCompany.m */; };
 		9B86310214BC9B2500F2C062 /* Shipping.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B86310114BC9B2500F2C062 /* Shipping.m */; };
 		9B86310514BC9B3000F2C062 /* TopFee.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B86310414BC9B3000F2C062 /* TopFee.m */; };
@@ -185,6 +183,7 @@
 		9B86329614BD395F00F2C062 /* Refund.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B86329514BD395F00F2C062 /* Refund.m */; };
 		9B86329914BD396900F2C062 /* PicUrl.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B86329814BD396900F2C062 /* PicUrl.m */; };
 		9B86329C14BD397700F2C062 /* Check.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B86329B14BD397700F2C062 /* Check.m */; };
+		9B8685D214BD84CE00E07973 /* Subtask.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B8685D114BD84CE00E07973 /* Subtask.m */; };
 		E2101A85133885B5009E94BC /* NSMutableDictionaryTaobao.m in Sources */ = {isa = PBXBuildFile; fileRef = E2101A84133885B5009E94BC /* NSMutableDictionaryTaobao.m */; };
 		E2101A981338872D009E94BC /* NSStringEx.m in Sources */ = {isa = PBXBuildFile; fileRef = E2101A971338872D009E94BC /* NSStringEx.m */; };
 /* End PBXBuildFile section */
@@ -257,8 +256,6 @@
 		9B8630D714BC989C00F2C062 /* Task.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Task.m; sourceTree = "<group>"; };
 		9B8630D914BC98A900F2C062 /* Trade.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Trade.h; sourceTree = "<group>"; };
 		9B8630DA14BC98A900F2C062 /* Trade.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Trade.m; sourceTree = "<group>"; };
-		9B8630DC14BC98C000F2C062 /* Subtask.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Subtask.h; sourceTree = "<group>"; };
-		9B8630DD14BC98C000F2C062 /* Subtask.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Subtask.m; sourceTree = "<group>"; };
 		9B8630DF14BC98E500F2C062 /* TradeConfirmFee.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TradeConfirmFee.h; sourceTree = "<group>"; };
 		9B8630E014BC98E500F2C062 /* TradeConfirmFee.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TradeConfirmFee.m; sourceTree = "<group>"; };
 		9B8630E214BC98F600F2C062 /* TradeRate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TradeRate.h; sourceTree = "<group>"; };
@@ -277,8 +274,6 @@
 		9B8630F514BC9AE500F2C062 /* DeliveryTemplate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DeliveryTemplate.m; sourceTree = "<group>"; };
 		9B8630F714BC9AF100F2C062 /* Area.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Area.h; sourceTree = "<group>"; };
 		9B8630F814BC9AF100F2C062 /* Area.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Area.m; sourceTree = "<group>"; };
-		9B8630FA14BC9B0200F2C062 /* SubTask.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SubTask.h; sourceTree = "<group>"; };
-		9B8630FB14BC9B0200F2C062 /* SubTask.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SubTask.m; sourceTree = "<group>"; };
 		9B8630FD14BC9B1800F2C062 /* LogisticsCompany.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LogisticsCompany.h; sourceTree = "<group>"; };
 		9B8630FE14BC9B1800F2C062 /* LogisticsCompany.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LogisticsCompany.m; sourceTree = "<group>"; };
 		9B86310014BC9B2500F2C062 /* Shipping.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Shipping.h; sourceTree = "<group>"; };
@@ -543,6 +538,8 @@
 		9B86329814BD396900F2C062 /* PicUrl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PicUrl.m; sourceTree = "<group>"; };
 		9B86329A14BD397700F2C062 /* Check.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Check.h; sourceTree = "<group>"; };
 		9B86329B14BD397700F2C062 /* Check.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Check.m; sourceTree = "<group>"; };
+		9B8685D014BD84CE00E07973 /* Subtask.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Subtask.h; sourceTree = "<group>"; };
+		9B8685D114BD84CE00E07973 /* Subtask.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Subtask.m; sourceTree = "<group>"; };
 		E2101A83133885B5009E94BC /* NSMutableDictionaryTaobao.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSMutableDictionaryTaobao.h; sourceTree = "<group>"; };
 		E2101A84133885B5009E94BC /* NSMutableDictionaryTaobao.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NSMutableDictionaryTaobao.m; sourceTree = "<group>"; };
 		E2101A961338872D009E94BC /* NSStringEx.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NSStringEx.h; sourceTree = "<group>"; };
@@ -817,8 +814,6 @@
 				9B8630D714BC989C00F2C062 /* Task.m */,
 				9B8630D914BC98A900F2C062 /* Trade.h */,
 				9B8630DA14BC98A900F2C062 /* Trade.m */,
-				9B8630DC14BC98C000F2C062 /* Subtask.h */,
-				9B8630DD14BC98C000F2C062 /* Subtask.m */,
 				9B8630DF14BC98E500F2C062 /* TradeConfirmFee.h */,
 				9B8630E014BC98E500F2C062 /* TradeConfirmFee.m */,
 				9B8630E214BC98F600F2C062 /* TradeRate.h */,
@@ -837,8 +832,6 @@
 				9B8630F514BC9AE500F2C062 /* DeliveryTemplate.m */,
 				9B8630F714BC9AF100F2C062 /* Area.h */,
 				9B8630F814BC9AF100F2C062 /* Area.m */,
-				9B8630FA14BC9B0200F2C062 /* SubTask.h */,
-				9B8630FB14BC9B0200F2C062 /* SubTask.m */,
 				9B8630FD14BC9B1800F2C062 /* LogisticsCompany.h */,
 				9B8630FE14BC9B1800F2C062 /* LogisticsCompany.m */,
 				9B86310014BC9B2500F2C062 /* Shipping.h */,
@@ -866,7 +859,6 @@
 				9B86312A14BC9C3000F2C062 /* LoginUser.h */,
 				9B86312B14BC9C3000F2C062 /* LoginUser.m */,
 				9B86312D14BC9C4E00F2C062 /* Distributor.h */,
-				9B86312E14BC9C4E00F2C062 /* Distributor.m */,
 				9B86313014BC9C6C00F2C062 /* PurchaseOrder.h */,
 				9B86313114BC9C6C00F2C062 /* PurchaseOrder.m */,
 				9B86313314BC9C7A00F2C062 /* FenxiaoProduct.h */,
@@ -876,6 +868,7 @@
 				9B86313914BC9C9B00F2C062 /* ProductCat.h */,
 				9B86313A14BC9C9B00F2C062 /* ProductCat.m */,
 				9B86313C14BC9CB800F2C062 /* HuabaoChannel.h */,
+				9B86312E14BC9C4E00F2C062 /* Distributor.m */,
 				9B86313D14BC9CB800F2C062 /* HuabaoChannel.m */,
 				9B86313F14BC9CC600F2C062 /* HuabaoPicture.h */,
 				9B86314014BC9CC600F2C062 /* HuabaoPicture.m */,
@@ -1011,6 +1004,8 @@
 				9B86325C14BD380500F2C062 /* BasicMember.m */,
 				9B86325E14BD382400F2C062 /* GradePromotion.h */,
 				9B86325F14BD382400F2C062 /* GradePromotion.m */,
+				9B8685D014BD84CE00E07973 /* Subtask.h */,
+				9B8685D114BD84CE00E07973 /* Subtask.m */,
 			);
 			name = com.flymobi.taobaoapp.po;
 			sourceTree = "<group>";
@@ -1111,7 +1106,6 @@
 				9B8630D514BC989100F2C062 /* TradeAmount.m in Sources */,
 				9B8630D814BC989C00F2C062 /* Task.m in Sources */,
 				9B8630DB14BC98A900F2C062 /* Trade.m in Sources */,
-				9B8630DE14BC98C000F2C062 /* Subtask.m in Sources */,
 				9B8630E114BC98E500F2C062 /* TradeConfirmFee.m in Sources */,
 				9B8630E414BC98F600F2C062 /* TradeRate.m in Sources */,
 				9B8630E714BC9A5900F2C062 /* TransitStepInfo.m in Sources */,
@@ -1121,7 +1115,6 @@
 				9B8630F314BC9ACF00F2C062 /* PartnerDetail.m in Sources */,
 				9B8630F614BC9AE500F2C062 /* DeliveryTemplate.m in Sources */,
 				9B8630F914BC9AF100F2C062 /* Area.m in Sources */,
-				9B8630FC14BC9B0200F2C062 /* SubTask.m in Sources */,
 				9B8630FF14BC9B1800F2C062 /* LogisticsCompany.m in Sources */,
 				9B86310214BC9B2500F2C062 /* Shipping.m in Sources */,
 				9B86310514BC9B3000F2C062 /* TopFee.m in Sources */,
@@ -1254,6 +1247,7 @@
 				9B86329614BD395F00F2C062 /* Refund.m in Sources */,
 				9B86329914BD396900F2C062 /* PicUrl.m in Sources */,
 				9B86329C14BD397700F2C062 /* Check.m in Sources */,
+				9B8685D214BD84CE00E07973 /* Subtask.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
