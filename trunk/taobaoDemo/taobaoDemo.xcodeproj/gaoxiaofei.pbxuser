@@ -2,9 +2,9 @@
 {
 	1D3623240D0F684500981E51 /* taobaoDemoAppDelegate.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1227, 470}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1227, 299}}";
 			sepNavSelRange = "{314, 0}";
-			sepNavVisRange = "{0, 475}";
+			sepNavVisRange = "{0, 474}";
 		};
 	};
 	1D3623250D0F684500981E51 /* taobaoDemoAppDelegate.m */ = {
@@ -388,6 +388,35 @@
 			9B8685C214BD82DF00E07973 /* PBXTextBookmark */ = 9B8685C214BD82DF00E07973 /* PBXTextBookmark */;
 			9B8685C314BD82DF00E07973 /* PBXTextBookmark */ = 9B8685C314BD82DF00E07973 /* PBXTextBookmark */;
 			9B8685C414BD82DF00E07973 /* PBXTextBookmark */ = 9B8685C414BD82DF00E07973 /* PBXTextBookmark */;
+			9B8685DC14BD866A00E07973 /* XCBuildMessageTextBookmark */ = 9B8685DC14BD866A00E07973 /* XCBuildMessageTextBookmark */;
+			9B8685DD14BD866A00E07973 /* PBXTextBookmark */ = 9B8685DD14BD866A00E07973 /* PBXTextBookmark */;
+			9B8685E214BD869100E07973 /* XCBuildMessageTextBookmark */ = 9B8685E214BD869100E07973 /* XCBuildMessageTextBookmark */;
+			9B8685E314BD869100E07973 /* PBXTextBookmark */ = 9B8685E314BD869100E07973 /* PBXTextBookmark */;
+			9B8685E414BD86A800E07973 /* PBXTextBookmark */ = 9B8685E414BD86A800E07973 /* PBXTextBookmark */;
+			9B8685E614BD86A800E07973 /* PBXTextBookmark */ = 9B8685E614BD86A800E07973 /* PBXTextBookmark */;
+			9B8685E714BD86A800E07973 /* PBXTextBookmark */ = 9B8685E714BD86A800E07973 /* PBXTextBookmark */;
+			9B8685E814BD86A800E07973 /* PBXTextBookmark */ = 9B8685E814BD86A800E07973 /* PBXTextBookmark */;
+			9B8685E914BD86A800E07973 /* PBXTextBookmark */ = 9B8685E914BD86A800E07973 /* PBXTextBookmark */;
+			9B8685EA14BD86A800E07973 /* PBXTextBookmark */ = 9B8685EA14BD86A800E07973 /* PBXTextBookmark */;
+			9B8685EB14BD86A800E07973 /* PBXTextBookmark */ = 9B8685EB14BD86A800E07973 /* PBXTextBookmark */;
+			9B8685EC14BD86A800E07973 /* PBXTextBookmark */ = 9B8685EC14BD86A800E07973 /* PBXTextBookmark */;
+			9B8685ED14BD86A800E07973 /* PBXTextBookmark */ = 9B8685ED14BD86A800E07973 /* PBXTextBookmark */;
+			9B8685EE14BD86A800E07973 /* PBXTextBookmark */ = 9B8685EE14BD86A800E07973 /* PBXTextBookmark */;
+			9B8685EF14BD86A800E07973 /* PBXTextBookmark */ = 9B8685EF14BD86A800E07973 /* PBXTextBookmark */;
+			9B8685F014BD86A800E07973 /* PBXTextBookmark */ = 9B8685F014BD86A800E07973 /* PBXTextBookmark */;
+			9B8685F114BD86A800E07973 /* PBXTextBookmark */ = 9B8685F114BD86A800E07973 /* PBXTextBookmark */;
+			9B8685F214BD86A800E07973 /* PBXTextBookmark */ = 9B8685F214BD86A800E07973 /* PBXTextBookmark */;
+			9B8685F314BD86A800E07973 /* PBXTextBookmark */ = 9B8685F314BD86A800E07973 /* PBXTextBookmark */;
+			9B8685F414BD86A800E07973 /* PBXTextBookmark */ = 9B8685F414BD86A800E07973 /* PBXTextBookmark */;
+			9B8685F514BD86A800E07973 /* PBXTextBookmark */ = 9B8685F514BD86A800E07973 /* PBXTextBookmark */;
+			9B8685F614BD86A800E07973 /* PBXTextBookmark */ = 9B8685F614BD86A800E07973 /* PBXTextBookmark */;
+			9B8685F714BD86A800E07973 /* PBXTextBookmark */ = 9B8685F714BD86A800E07973 /* PBXTextBookmark */;
+			9B8685F814BD86A800E07973 /* PBXTextBookmark */ = 9B8685F814BD86A800E07973 /* PBXTextBookmark */;
+			9B8685F914BD86D000E07973 /* PBXTextBookmark */ = 9B8685F914BD86D000E07973 /* PBXTextBookmark */;
+			9B8685FA14BD86D000E07973 /* PBXTextBookmark */ = 9B8685FA14BD86D000E07973 /* PBXTextBookmark */;
+			9B8685FB14BD86D000E07973 /* PlistBookmark */ = 9B8685FB14BD86D000E07973 /* PlistBookmark */;
+			9B8685FD14BD86D000E07973 /* PBXTextBookmark */ = 9B8685FD14BD86D000E07973 /* PBXTextBookmark */;
+			9B8685FE14BD86D000E07973 /* PBXTextBookmark */ = 9B8685FE14BD86D000E07973 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 9B862EDD14BC061E00F2C062 /* Source Control */;
 		userBuildSettings = {
@@ -519,9 +548,9 @@
 		path = /Users/gaoxiaofei/workspace/taobaoDemo/taobaoDemo.xcodeproj/gaoxiaofei.pbxuser;
 		sourceTree = "<absolute>";
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1227, 57356}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1227, 61139}}";
 			sepNavSelRange = "{24580, 0}";
-			sepNavVisRange = "{24199, 894}";
+			sepNavVisRange = "{23802, 2100}";
 		};
 	};
 	9B86307C14BC919600F2C062 /* IndexViewController.nib */ = {
@@ -544,14 +573,14 @@
 	};
 	9B86308814BC93C000F2C062 /* TaobaoApiMethod.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1227, 753}}";
-			sepNavSelRange = "{189, 0}";
-			sepNavVisRange = "{0, 451}";
+			sepNavIntBoundsRect = "{{0, 0}, {1227, 338}}";
+			sepNavSelRange = "{450, 0}";
+			sepNavVisRange = "{82, 423}";
 		};
 	};
 	9B86308914BC93C000F2C062 /* TaobaoApiMethod.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1227, 753}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1227, 265}}";
 			sepNavSelRange = "{0, 0}";
 			sepNavVisRange = "{0, 208}";
 			sepNavWindowFrame = "{{61, 573}, {750, 558}}";
@@ -1043,7 +1072,7 @@
 	};
 	9B86312714BC9C2400F2C062 /* Receiver.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1227, 480}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1227, 470}}";
 			sepNavSelRange = "{0, 0}";
 			sepNavVisRange = "{0, 211}";
 		};
@@ -1088,6 +1117,13 @@
 			sepNavIntBoundsRect = "{{0, 0}, {1227, 333}}";
 			sepNavSelRange = "{0, 0}";
 			sepNavVisRange = "{0, 232}";
+		};
+	};
+	9B86313714BC9C8D00F2C062 /* SubPurchaseOrder.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1227, 265}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 211}";
 		};
 	};
 	9B86313914BC9C9B00F2C062 /* ProductCat.h */ = {
@@ -1575,7 +1611,7 @@
 	};
 	9B8631ED14BCA23B00F2C062 /* Activity.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1227, 480}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1227, 470}}";
 			sepNavSelRange = "{169, 33}";
 			sepNavVisRange = "{0, 211}";
 		};
@@ -2030,7 +2066,7 @@
 	};
 	9B86328214BD38E600F2C062 /* SubUserInfo.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1227, 470}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1227, 265}}";
 			sepNavSelRange = "{0, 0}";
 			sepNavVisRange = "{0, 217}";
 		};
@@ -3001,7 +3037,7 @@
 		path = /Users/gaoxiaofei/workspace/taobaoDemo/taobaoDemo.xcodeproj/project.pbxproj;
 		sourceTree = "<absolute>";
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1227, 17160}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1227, 18317}}";
 			sepNavSelRange = "{125896, 0}";
 			sepNavVisRange = "{0, 4049}";
 		};
@@ -4486,6 +4522,320 @@
 		vrLen = 199;
 		vrLoc = 0;
 	};
+	9B8685D014BD84CE00E07973 /* Subtask.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1227, 265}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 208}";
+		};
+	};
+	9B8685D114BD84CE00E07973 /* Subtask.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1227, 265}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 183}";
+		};
+	};
+	9B8685DC14BD866A00E07973 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected '=', ',', ';', 'asm' or '__attribute__' before '.' token";
+		fRef = 9B86308814BC93C000F2C062 /* TaobaoApiMethod.h */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 16;
+		rType = 1;
+	};
+	9B8685DD14BD866A00E07973 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B86308814BC93C000F2C062 /* TaobaoApiMethod.h */;
+		name = "TaobaoApiMethod.h: 17";
+		rLen = 0;
+		rLoc = 398;
+		rType = 0;
+		vrLen = 360;
+		vrLoc = 136;
+	};
+	9B8685E214BD869100E07973 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'taobao_user_get' defined but not used";
+		fRef = 9B86308814BC93C000F2C062 /* TaobaoApiMethod.h */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 16;
+		rType = 1;
+	};
+	9B8685E314BD869100E07973 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B86308814BC93C000F2C062 /* TaobaoApiMethod.h */;
+		name = "TaobaoApiMethod.h: 17";
+		rLen = 0;
+		rLoc = 398;
+		rType = 0;
+		vrLen = 360;
+		vrLoc = 136;
+	};
+	9B8685E414BD86A800E07973 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B8685E514BD86A800E07973 /* Diff BASE vs. Local — FenxiaoGrade.m */;
+		name = "Diff BASE vs. Local — FenxiaoGrade.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 521;
+		vrLoc = 0;
+	};
+	9B8685E514BD86A800E07973 /* Diff BASE vs. Local — FenxiaoGrade.m */ = {
+		isa = PBXFileReference;
+		path = "Diff BASE vs. Local — FenxiaoGrade.m";
+		sourceTree = "<group>";
+	};
+	9B8685E614BD86A800E07973 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B86314214BC9CE300F2C062 /* HuabaoAuctionInfo.h */;
+		name = "HuabaoAuctionInfo.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 229;
+		vrLoc = 0;
+	};
+	9B8685E714BD86A800E07973 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B86312514BC9C1600F2C062 /* FenxiaoGrade.m */;
+		name = "FenxiaoGrade.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 199;
+		vrLoc = 0;
+	};
+	9B8685E814BD86A800E07973 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B86314014BC9CC600F2C062 /* HuabaoPicture.m */;
+		name = "HuabaoPicture.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 202;
+		vrLoc = 0;
+	};
+	9B8685E914BD86A800E07973 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B8630F114BC9ACF00F2C062 /* PartnerDetail.h */;
+		name = "PartnerDetail.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 221;
+		vrLoc = 0;
+	};
+	9B8685EA14BD86A800E07973 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B86315E14BC9DCD00F2C062 /* StaffEvalStatById.m */;
+		name = "StaffEvalStatById.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 214;
+		vrLoc = 0;
+	};
+	9B8685EB14BD86A800E07973 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B86328314BD38E600F2C062 /* SubUserInfo.m */;
+		name = "SubUserInfo.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 196;
+		vrLoc = 0;
+	};
+	9B8685EC14BD86A800E07973 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B86343314BD3F2800F2C062 /* project.pbxproj */;
+		name = "project.pbxproj: 1330";
+		rLen = 0;
+		rLoc = 125896;
+		rType = 0;
+		vrLen = 4049;
+		vrLoc = 0;
+	};
+	9B8685ED14BD86A800E07973 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B86312714BC9C2400F2C062 /* Receiver.h */;
+		name = "Receiver.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 211;
+		vrLoc = 0;
+	};
+	9B8685EE14BD86A800E07973 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B8631ED14BCA23B00F2C062 /* Activity.h */;
+		name = "Activity.h: 12";
+		rLen = 33;
+		rLoc = 169;
+		rType = 0;
+		vrLen = 211;
+		vrLoc = 0;
+	};
+	9B8685EF14BD86A800E07973 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B86313714BC9C8D00F2C062 /* SubPurchaseOrder.m */;
+		name = "SubPurchaseOrder.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 211;
+		vrLoc = 0;
+	};
+	9B8685F014BD86A800E07973 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* taobaoDemoAppDelegate.h */;
+		name = "taobaoDemoAppDelegate.h: 15";
+		rLen = 0;
+		rLoc = 314;
+		rType = 0;
+		vrLen = 474;
+		vrLoc = 0;
+	};
+	9B8685F114BD86A800E07973 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B86328214BD38E600F2C062 /* SubUserInfo.h */;
+		name = "SubUserInfo.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 217;
+		vrLoc = 0;
+	};
+	9B8685F214BD86A800E07973 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E2101A971338872D009E94BC /* NSStringEx.m */;
+		name = "NSStringEx.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 461;
+		vrLoc = 0;
+	};
+	9B8685F314BD86A800E07973 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E2101A961338872D009E94BC /* NSStringEx.h */;
+		name = "NSStringEx.h: 6";
+		rLen = 12;
+		rLoc = 95;
+		rType = 0;
+		vrLen = 220;
+		vrLoc = 0;
+	};
+	9B8685F414BD86A800E07973 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B86308814BC93C000F2C062 /* TaobaoApiMethod.h */;
+		name = "TaobaoApiMethod.h: 17";
+		rLen = 0;
+		rLoc = 450;
+		rType = 0;
+		vrLen = 423;
+		vrLoc = 82;
+	};
+	9B8685F514BD86A800E07973 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B86308914BC93C000F2C062 /* TaobaoApiMethod.m */;
+		name = "TaobaoApiMethod.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 208;
+		vrLoc = 0;
+	};
+	9B8685F614BD86A800E07973 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B8685D114BD84CE00E07973 /* Subtask.m */;
+		name = "Subtask.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 183;
+		vrLoc = 0;
+	};
+	9B8685F714BD86A800E07973 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B8685D014BD84CE00E07973 /* Subtask.h */;
+		name = "Subtask.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 208;
+		vrLoc = 0;
+	};
+	9B8685F814BD86A800E07973 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B8685D014BD84CE00E07973 /* Subtask.h */;
+		name = "Subtask.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 208;
+		vrLoc = 0;
+	};
+	9B8685F914BD86D000E07973 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B8685D014BD84CE00E07973 /* Subtask.h */;
+		name = "Subtask.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 208;
+		vrLoc = 0;
+	};
+	9B8685FA14BD86D000E07973 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B86308914BC93C000F2C062 /* TaobaoApiMethod.m */;
+		name = "TaobaoApiMethod.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 208;
+		vrLoc = 0;
+	};
+	9B8685FB14BD86D000E07973 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 9B8685FC14BD86D000E07973 /* MainWindow.nib */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/gaoxiaofei/workspace/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app/MainWindow.nib";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	9B8685FC14BD86D000E07973 /* MainWindow.nib */ = {
+		isa = PBXFileReference;
+		name = MainWindow.nib;
+		path = "/Users/gaoxiaofei/workspace/taobaoDemo/build/Debug-iphonesimulator/taobaoDemo.app/MainWindow.nib";
+		sourceTree = "<absolute>";
+	};
+	9B8685FD14BD86D000E07973 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B86307A14BC919600F2C062 /* gaoxiaofei.pbxuser */;
+		name = "gaoxiaofei.pbxuser: 401";
+		rLen = 0;
+		rLoc = 24580;
+		rType = 0;
+		vrLen = 2222;
+		vrLoc = 23680;
+	};
+	9B8685FE14BD86D000E07973 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B86307A14BC919600F2C062 /* gaoxiaofei.pbxuser */;
+		name = "gaoxiaofei.pbxuser: 401";
+		rLen = 0;
+		rLoc = 24580;
+		rType = 0;
+		vrLen = 2100;
+		vrLoc = 23802;
+	};
 	E2101A83133885B5009E94BC /* NSMutableDictionaryTaobao.h */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1205, 706}}";
@@ -4502,16 +4852,16 @@
 	};
 	E2101A961338872D009E94BC /* NSStringEx.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {720, 208}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1227, 265}}";
 			sepNavSelRange = "{95, 12}";
-			sepNavVisRange = "{0, 196}";
+			sepNavVisRange = "{0, 220}";
 		};
 	};
 	E2101A971338872D009E94BC /* NSStringEx.m */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1227, 390}}";
 			sepNavSelRange = "{0, 0}";
-			sepNavVisRange = "{0, 662}";
+			sepNavVisRange = "{0, 461}";
 		};
 	};
 }
