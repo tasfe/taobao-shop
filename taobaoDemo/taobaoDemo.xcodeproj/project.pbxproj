@@ -96,7 +96,6 @@
 		9B86318014BC9EED00F2C062 /* GroupMember.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B86317F14BC9EED00F2C062 /* GroupMember.m */; };
 		9B86318314BC9F1A00F2C062 /* ItemImg.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B86318214BC9F1A00F2C062 /* ItemImg.m */; };
 		9B86318614BC9F3100F2C062 /* TaobaokeReportMember.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B86318514BC9F3100F2C062 /* TaobaokeReportMember.m */; };
-		9B86318914BC9F3500F2C062 /* untitled.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B86318814BC9F3500F2C062 /* untitled.m */; };
 		9B86318C14BC9F4900F2C062 /* TaobaokeReport.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B86318B14BC9F4900F2C062 /* TaobaokeReport.m */; };
 		9B86318F14BC9F5C00F2C062 /* PropImg.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B86318E14BC9F5C00F2C062 /* PropImg.m */; };
 		9B86319214BC9F7200F2C062 /* TaobaokeItemDetail.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B86319114BC9F7200F2C062 /* TaobaokeItemDetail.m */; };
@@ -366,8 +365,6 @@
 		9B86318214BC9F1A00F2C062 /* ItemImg.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ItemImg.m; sourceTree = "<group>"; };
 		9B86318414BC9F3100F2C062 /* TaobaokeReportMember.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TaobaokeReportMember.h; sourceTree = "<group>"; };
 		9B86318514BC9F3100F2C062 /* TaobaokeReportMember.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TaobaokeReportMember.m; sourceTree = "<group>"; };
-		9B86318714BC9F3500F2C062 /* untitled.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = untitled.h; sourceTree = "<group>"; };
-		9B86318814BC9F3500F2C062 /* untitled.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = untitled.m; sourceTree = "<group>"; };
 		9B86318A14BC9F4900F2C062 /* TaobaokeReport.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TaobaokeReport.h; sourceTree = "<group>"; };
 		9B86318B14BC9F4900F2C062 /* TaobaokeReport.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TaobaokeReport.m; sourceTree = "<group>"; };
 		9B86318D14BC9F5C00F2C062 /* PropImg.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PropImg.h; sourceTree = "<group>"; };
@@ -924,8 +921,6 @@
 				9B86318214BC9F1A00F2C062 /* ItemImg.m */,
 				9B86318414BC9F3100F2C062 /* TaobaokeReportMember.h */,
 				9B86318514BC9F3100F2C062 /* TaobaokeReportMember.m */,
-				9B86318714BC9F3500F2C062 /* untitled.h */,
-				9B86318814BC9F3500F2C062 /* untitled.m */,
 				9B86318A14BC9F4900F2C062 /* TaobaokeReport.h */,
 				9B86318B14BC9F4900F2C062 /* TaobaokeReport.m */,
 				9B86318D14BC9F5C00F2C062 /* PropImg.h */,
@@ -1170,7 +1165,6 @@
 				9B86318014BC9EED00F2C062 /* GroupMember.m in Sources */,
 				9B86318314BC9F1A00F2C062 /* ItemImg.m in Sources */,
 				9B86318614BC9F3100F2C062 /* TaobaokeReportMember.m in Sources */,
-				9B86318914BC9F3500F2C062 /* untitled.m in Sources */,
 				9B86318C14BC9F4900F2C062 /* TaobaokeReport.m in Sources */,
 				9B86318F14BC9F5C00F2C062 /* PropImg.m in Sources */,
 				9B86319214BC9F7200F2C062 /* TaobaokeItemDetail.m in Sources */,
