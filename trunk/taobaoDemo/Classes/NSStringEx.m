@@ -2,8 +2,8 @@
 //  NSStringEx.m
 //  audioBook
 //
-//  Created by YangZigang on 10-10-18.
-//  Copyright 2010 __MyCompanyName__. All rights reserved.
+//  Created by gaoxiaofei on 10-10-18.
+//  Copyright 2010 fly-mobi.com. All rights reserved.
 //
 
 #import "NSStringEx.h"
